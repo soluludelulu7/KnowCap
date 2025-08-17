@@ -201,4 +201,5 @@ Project to be released under MIT License on GitHub
 Community contributions invited for curriculum, translations, and features
 
 Link to google slides: https://docs.google.com/presentation/d/1NvY7o619rjOTxRA5DK00uUU1OGVbDWViVins9RRxFuo/edit?usp=sharing
-link to pitch video: 
+
+Link to pitch video: https://youtu.be/O5D4VePFAtM
